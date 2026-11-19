@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme              : "default"
-title                   : "Qi Feng"
+title                   : "Qi Feng(丰祺)"
 title_separator          : "-"
 name                    : "Qi Feng"
 description             : &description "Academic website of Qi Feng, M.S. student in Economics at Nankai University"
