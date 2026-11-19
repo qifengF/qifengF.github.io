@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Qi Feng"
+title: "Qi Feng(丰祺)"
 author_profile: true
 redirect_from:
   - /about/
