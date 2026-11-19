@@ -9,7 +9,7 @@ author_profile: true
 
 1. **"Power with Limits: Executive Constraints and Economic Stability"**[paper](/files/qifeng_power.pdf)
 
-   *Brief abstract: Stronger executive constraints is associated with lower long-term economic volatility and greater economic resilience under global crisis.*
+   *Brief abstract: Stronger executive constraints is associated with lower long-term economic volatility and greater economic resilience under global crises.*
 
 ## Selected Research Experience
 
